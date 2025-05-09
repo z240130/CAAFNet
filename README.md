@@ -3,7 +3,7 @@ Code for paper "Enhancing Medical Image Segmentation with CAAFNet: A Dual-Branch
 
 ## 1. Environment
 
-- Please prepare an environment with Ubuntu 20.04, with Python 3.6.13, PyTorch 1.8.0, and CUDA 11.1.1.
+- Please prepare an environment with Ubuntu 20.04, with Python 3.8.13, PyTorch 2.7.0, and CUDA 11.8.1.
 ## 2. Prepare data
 The datasets we used are provided by TransUnet's authors. [Get processed data in this link] (Synapse/BTCV: https://drive.google.com/drive/folders/1ACJEoTp-uqfFJ73qS3eUObQh52nGuzCd and ACDC: https://drive.google.com/drive/folders/1KQcrci7aKsYZi1hQoZ3T3QUtcy7b--n4).
 ## 3. Train/Test
